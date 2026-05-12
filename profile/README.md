@@ -39,8 +39,8 @@ We rely on a modern, agile tech stack to deliver results without the bloat.
 Silvas Digital is driven by a commitment to absolute discipline and technical excellence. 
 
 **Connect with the Founder:**
-*   👨‍💻 **GitHub:** [@YourPersonalUsername](https://github.com/YourPersonalUsername) <!-- Replace with your actual GitHub link -->
-*   📧 **Contact:** [Connect via Email](mailto:yourbusinessmail@example.com)
+*   👨‍💻 **GitHub:** [@YourPersonalUsername](https://github.com/Silva-Mo) <!-- Replace with your actual GitHub link -->
+*   📧 **Contact:** [Connect via Email](mailto:mohammedstum890@gmail.com)
 
 ---
 *Building the future of digital operations, one line of code at a time.*

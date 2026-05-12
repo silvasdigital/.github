@@ -1,8 +1,8 @@
-# 🚀 Welcome to Silvas Digital (Founded by Mohammed Al-Faddagh)
+# 🚀 Welcome to Silvas Digital
 
 ### Crafting High-Performance Digital Experiences.
 
-At **Silvas Digital**, we build lightning-fast, responsive web solutions engineered for conversion and scalability. We specialize in elevating digital storefronts and operational platforms for the real estate, medical, retail, and hospitality sectors. 
+At **Silvas Digital** (Founded by Mohammed Al-Faddagh), we build lightning-fast, responsive web solutions engineered for conversion and scalability. We specialize in elevating digital storefronts and operational platforms for the real estate, medical, retail, and hospitality sectors. 
 
 Our development philosophy is simple: **Keep it lightweight, keep it fast.** We prioritize clean, modern frontend architectures and seamless API integrations over bloated, heavy backend frameworks. 
 
